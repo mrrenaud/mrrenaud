@@ -1,31 +1,65 @@
 ### Hi there 👋
 
-I'm **Renaud Dumont**, a developer from Belgium, Mons.
+I'm **Renaud Dumont** — tech founder, product-oriented developer, and community builder based in 🇧🇪 Mons, Belgium.
 
-![](https://www.sparkle.tech/images/app/logo.png)
+## 🚀 What I Do
 
-I run a small company called  [Sparkle](https://www.sparkle.tech) which aims at creating digital products and services with our clients. 
+I run **[Sparkle.tech](https://www.sparkle.tech)** — a modern software agency building high-quality digital products for ambitious companies.
 
-🔭 I’m currently working on several projects for entrepreneurs in Belgium and in France.
+We don't just ship code.  
+We help founders and teams clarify their product vision, structure their roadmap, and build scalable, maintainable software.
 
-✨ I prefer to code with TypeScript and C#. I mainly build stuff with ReactJS, React Native and ASP.NET Core.
+<a href="https://www.sparkle.tech"><img width="400" height="200" alt="Développons votre projet web, mobile   IA (5)" src="https://github.com/user-attachments/assets/2cc68921-daf8-42f0-a8f4-440c42954d0a" /></a>
 
-📣 I organize the [DevDay](https://devday.be) in Belgium with a team of local developers. It's my way to give back to the community.
+## 🛠 Tech I Enjoy
 
-🎼 Eventually, I spend time making music [here](https://open.spotify.com/artist/0MZQZskQHnEbgCgzJfZu65) and [there](https://soundcloud.com/morzak).
+I mostly work with:
+
+- **TypeScript**
+- **C#**
+- React / React Native
+- ASP.NET Core
+- Product & system architecture thinking
+
+I care a lot about:
+- Clean architecture
+- Long-term maintainability
+- Developer experience
+- Building things that *actually* solve problems
+
+## 🌍 Community
+
+I co-organize **[DevDay](https://devday.be)** — one of the largest developer conferences in Wallonia.  
+It’s my way of giving back to the ecosystem that helped me grow.
+
+<img width="410" height="135" alt="image" src="https://github.com/user-attachments/assets/06a73763-e194-4bca-b5e9-97f80c61d720" />
 
 
-<!--
-**mrrenaud/mrrenaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤖 AI & The Future of Development
 
-Here are some ideas to get you started:
+I’m particularly interested in how AI is reshaping the way we build software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Not as a shortcut.  
+But as a **multiplier**.
+
+I actively explore:
+- AI-assisted development workflows
+- LLM-powered product features
+- Automation that removes friction for teams
+- The evolving role of developers in an AI-augmented world
+
+I believe the best engineers won’t be replaced —  
+they’ll be amplified.
+
+## 🎵 Outside of Tech
+
+Sometimes I write code.  
+Sometimes I write music.
+
+You can find my tracks:
+- 🎧 [Spotify](https://open.spotify.com/artist/0MZQZskQHnEbgCgzJfZu65)
+- 🎹 [SoundCloud](https://soundcloud.com/morzak)
+
+---
+
+If you're building something meaningful and need a strong technical partner — let's talk.
